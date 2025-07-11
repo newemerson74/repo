@@ -1,6 +1,4 @@
 # repo
-AA great `README.md` is like a handshake—it sets the tone, builds trust, and invites collaboration. Here's how to craft one that stands out:
-
 ### 📘 Essential Sections for a GitHub README
 
 | Section             | Purpose                                                                 |
